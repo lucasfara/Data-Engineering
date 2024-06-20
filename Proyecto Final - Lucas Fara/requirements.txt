@@ -1,0 +1,6 @@
+http.client
+psycopg2
+json
+smtplib
+email
+pandas
